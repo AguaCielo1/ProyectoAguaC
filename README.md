@@ -14,55 +14,55 @@ se valido W3C, quedando sin errores
 cumple con todos los requerimientos funcionales y no  funcionales.
 
 
-Pagina principal
+PÀGINA PRINCIPAL
 
 En esta pàgina al dar click en el icono de menù, nos envia a la pàgina de menù y al dar click en cada img nos envia a la pagina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Pagina%20principal-pc.jpg)
 
 
-Menù
+MENÙ
 
 Al dar click en contactanos nos envia a la pàgina del formulario y al dar click en ver mà, nos envìa directo a la informaciòn de cada producto.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Menu-pc.jpg)
 
-Salas
+SALAS
 
 Al dar click en la flechita nos devuelve a la pàgina del menù, y al dar click en la imàgen nos envìa a la pàgina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/salas-pc.jpg)
 
-Sillas
+SILLAS
 
 Al dar click en la flechita nos devuelve a la pàgina del menù, y al dar click en la imàgen nos envìa a la pàgina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/sillas-pc.jpg)
 
-Sofà
+SOFÀ
 Al dar click en la flechita nos devuelve a la pàgina del menù, y al dar click en la imàgen nos envìa a la pàgina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/sofas-pc.jpg)
 
-Comedor
+COMEDOR
 
 Al dar click en la flechita nos devuelve a la pàgina del menù, y al dar click en la imàgen nos envìa a la pàgina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/comedor-pc.jpg)
 
-Mesa
+MESA
 
 Al dar click en la flechita nos devuelve a la pàgina del menù, y al dar click en la imàgen nos envìa a la pàgina del formulario.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/mesa-pc.jpg)
 
-Formulario
+FORMULARIO
 
 Al dar click en cancelar nos devuelve a la pàgina principal y al dar click en enviar no pasa la pagina de agradecimiento.
 
 ![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/formulario-pc.jpg)
 
-Agradecimiento
+AGRADECIMIENTO
 
 Al dar click en el logo nos devuelve a la pàgina principal.
 
