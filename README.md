@@ -15,4 +15,31 @@ cumple con todos los requerimientos funcionales y no  funcionales.
 
 
 Pagina principal
-https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Pagina%20principal-pc.jpg
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Pagina%20principal-pc.jpg)
+
+Menù
+1[](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Menu-pc.jpg)
+
+Salas
+
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/salas-pc.jpg)
+
+Sillas
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/sillas-pc.jpg)
+
+Sofà
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/sofas-pc.jpg)
+
+Comedor
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/comedor-pc.jpg)
+
+Mesa
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/mesa-pc.jpg)
+
+Formulario
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/formulario-pc.jpg)
+
+Agradecimiento
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Agradecimiento-pc.jpg)
+
+
