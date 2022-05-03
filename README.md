@@ -25,7 +25,7 @@ Menù
 
 Al dar click en contactanos nos envia a la pàgina del formulario y al dar click en ver mà, nos envìa directo a la informaciòn de cada producto.
 
-1[](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Menu-pc.jpg)
+![](https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Menu-pc.jpg)
 
 Salas
 
