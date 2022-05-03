@@ -12,3 +12,7 @@ funcionalidad correcta: Chrome
 se utilizo: HTML5 SCSS JS6 y el framework de Bootstrap
 se valido W3C, quedando sin errores
 cumple con todos los requerimientos funcionales y no  funcionales.
+
+
+Pagina principal
+https://github.com/AguaCielo1/ProyectoAguaC/blob/main/ProyectoA/Pagina%20principal-pc.jpg
